@@ -1,1 +1,2 @@
  Hi, here I am checking the pushing data into remote repository from local
+Changes did by Git practice developer.
